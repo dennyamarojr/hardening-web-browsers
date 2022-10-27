@@ -1,0 +1,1 @@
+# Hardening Brave Browser
